@@ -1,6 +1,6 @@
 /* GLOBAL */
 body {
-background-color: #f7f7f7;
+background-color: #98FB98;
 color: #333;
 line-height: 1.6;
 }
@@ -17,7 +17,7 @@ padding: 20px;
 .header {
 background: #fff;
 border-bottom: 1px solid #ddd;
-position: sticky;
+/* position: sticky; */
 top: 0;
 z-index: 10;
 }
